@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "name": "shubham",
+      "username": "singalkar",
+      "email": "shubham@gmail.com",
+      "phone": "8379882933",
+      "id": 4
+    },
+    {
+      "name": "vikas",
+      "username": "khandekar",
+      "email": "vikas@gmail.com",
+      "phone": "5555222555",
+      "id": 5
+    },
+    {
+      "name": "prashan",
+      "username": "pagote",
+      "email": "pr@gmail.com",
+      "phone": "8379882933",
+      "id": 6
+    }
+  ],
+  "login": [
+    {
+      "username": "ek@gmail.com",
+      "password": "abc123"
+    }
+  ]
+}
